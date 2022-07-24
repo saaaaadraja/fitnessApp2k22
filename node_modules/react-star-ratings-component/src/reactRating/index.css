@@ -1,0 +1,14 @@
+.star-rating-container .star-list {
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.star-list .star {
+    cursor: pointer;
+}
+
+.star-rating-container .star-rating-numbers{
+    margin-left: 30px;
+    font-weight: bold;
+}
